@@ -18,7 +18,7 @@ function Write() {
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur dicta fugit tempore, molestias eveniet laborum magnam, labore hic nulla temporibus accusamus iusto culpa voluptates odit? Praesentium maiores voluptatibus sit aliquid.
                         </div>
                         <button class="write_text-button">
-                            Написать мне
+                            Написать мне3
                         </button>
                     </div>
                 </div>
